@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mylibrary-1.0.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/soundrecorder/build/intermediates/exploded-aar/com.carlos.voiceline/mylibrary/1.0.6/res" />
+      <root url="jar://$PROJECT_DIR$/soundrecorder/build/intermediates/exploded-aar/com.carlos.voiceline/mylibrary/1.0.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.carlos.voiceline/mylibrary/1.0.6/f0b6248117067fad061d961774feaf7a94b8ca2f/mylibrary-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -9,7 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/mysoundrecorder" />
+            <option value="$PROJECT_DIR$/soundrecorder" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
